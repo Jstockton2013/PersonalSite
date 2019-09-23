@@ -109,7 +109,7 @@ margin-bottom: 40px;
   margin-left: auto;
 }
 
-.redplanetwithguy{position: relative;
+.redplanetwithguy{position: absolute;
   width: 40%;
   margin-left: auto;
   margin-right: auto;
