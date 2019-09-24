@@ -66,10 +66,9 @@ a:hover{
 
 .top-container{
 background-color: #71787a;
-position: relative;
 padding-top: .75%;
 width: 100%;
-margin-bottom: 40px;
+padding-bottom: 13%;
 }
 
 .bottom-container{
@@ -100,20 +99,16 @@ margin-bottom: 40px;
   position: absolute;
   left: 20%;
   top: 45px;
-  margin-right: auto;
-}
+  }
 .cloudbottom{
   position: absolute;
   top: 150px;
   left: 70%;
-  margin-left: auto;
 }
 
 .redplanetwithguy{position: absolute;
   width: 40%;
-  margin-left: auto;
-  margin-right: auto;
-
+  left:30%;
 }
 
 .compgif{
